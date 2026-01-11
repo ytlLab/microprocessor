@@ -1,4 +1,3 @@
-sync test1
 # microprocessor
 微處理器
 
