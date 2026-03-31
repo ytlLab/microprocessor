@@ -8,3 +8,4 @@
 #### [ch04_液晶顯示模組與超音波模組](https://github.com/ytlLab/microprocessor/blob/main/ch04.md)
 #### [ch05_4×4薄膜鍵盤](https://github.com/ytlLab/microprocessor/blob/main/ch05.md)
 #### [ch06_可變電阻](https://github.com/ytlLab/microprocessor/blob/main/ch06.md)
+#### [ch07_MPU6050 6軸運動處理模組](https://github.com/ytlLab/microprocessor/blob/main/ch07.md)
